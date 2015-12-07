@@ -1,0 +1,18 @@
+{
+  "name": "stuartabramshumphries-vasclient",
+  "version": "0.5.0",
+  "author": "stuartabramshumphries",
+  "summary": "vasclient Module",
+  "operatingsystem_support": [{
+                  "operating_system": "RedHat",
+                  "operatingsystem_release": [ "6","7"]
+   }],
+  "license": "ASL 2.0",
+  "source": "git://github.com/stuartabramshumphries/puppet-vasclient.git",
+  "project_page": "http://github.com/stuartabramshumphries/puppet-vasclient.git",
+  "issues_url": "https://github.com/stuartabramshumphries/puppet-vasclient.git",
+  "description": "This is a module to manage vasclient install and config",
+  "dependencies": [
+  
+  ]
+}

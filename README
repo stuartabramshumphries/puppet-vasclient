@@ -1,6 +1,7 @@
 vasclient
 
 This is the vasclient module.
+Integrates linux (RHEL based) systems with Windows AD via the quest/vas software
 
 License
 -------
